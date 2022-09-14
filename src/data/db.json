@@ -1,0 +1,76 @@
+{
+  "movieslist": [
+    {
+      "id": 1,
+      "moviename": "Petta",
+      "cast": "Rajinikanth,Vijay Sethupathi,simran,Trisha",
+      "director": "karthi Subburaju",
+      "music": "Anirudh Ravichandar",
+      "year": 2019,
+      "producers": "kalanithi Maran"
+    },
+    {
+      "id": 2,
+      "moviename": "Asuran",
+      "cast": "Dhanush,Manju warrior,prakash raj",
+      "director": "Vetrimaran",
+      "music": "G V prakash",
+      "year": 2019,
+      "producers": "k s Thanu"
+    },
+    {
+      "id": 3,
+      "moviename": "puspha-The Rise",
+      "cast": "Allu Arjun,Rashmika Mandanna,Fahad Fassil",
+      "director": "Sukumar",
+      "music": "Devi Sri Prasad",
+      "year": 2021,
+      "producers": "Mythri Movie Makers"
+    },
+    {
+      "id": 4,
+      "moviename": "puspha-The Rule",
+      "cast": "Allu Arjun,Rashmika Mandanna,Fahad Fassil",
+      "director": "Sukumar",
+      "music": "Devi Sri Prasad",
+      "year": 2021,
+      "producers": "Mythri Movie Makers"
+    },
+    {
+      "id": 5,
+      "moviename": "Nanaku Prematho",
+      "cast": "Jr.ntr, Rakul Preet Singh",
+      "director": "Sukumar",
+      "music": "Devi Sri Prasad",
+      "year": 2019,
+      "producers": "Mythri Movie Makers"
+    },
+    {
+      "moviename": "Radha Shyam",
+      "cast": "Prabhas,Pooja Hegdel",
+      "director": "Radha Krishna",
+      "music": "Gibran",
+      "year": 2022,
+      "producers": "UV Creations",
+      "id": 6
+    },
+    {
+      "id": 8,
+      "moviename": "Vikram",
+      "cast": "Kamal Hassan,Vijay Sethupathi,Fahad Fassil",
+      "director": "lokesh Kanagaraj",
+      "music": "Anirudh Ravichandar",
+      "year": 2022,
+      "producers": "Kamal Film Factory"
+    },
+    {
+      "id": 9,
+      "moviename": "Kgf-2",
+      "cast": "Yash,Srinidhi shetty,Sanjay dutt,Ravina tandon",
+      "director": "Prashanth Neel",
+      "music": "Ravi Basrur",
+      "year": 2022,
+      "producers": "Hombale Films"
+    }
+  ]
+}
